@@ -4,12 +4,17 @@
 🌟 **About Me**
 
 💡 Visionary PM: Passionate about creating user-centric products that align with business goals.
+
 🛠 Product Strategist: Expertise in defining roadmaps, executing launches, and delivering impactful solutions.
+
 🌱 Lifelong Learner: Constantly exploring trends in AI, LLMs and product design.
-📚 Current Focus
+
+📚 **Current Focus**
 
 🚧 Building AI-driven platforms to transform industries.
+
 🌐 Exploring the Generative AI & AI Agents.
+
 🤝 Advocating for cross-functional collaboration to create exceptional user experiences.
 
 💼 **Skills & Expertise**
